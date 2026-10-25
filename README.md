@@ -31,17 +31,6 @@ I work across the entire analytics lifecycle:
 
 ---
 
-## 📌 Selected Work & Flagship Projects
-
-### 1. 🛏️ [Sleep Debt Medallion Data Warehouse](https://github.com/mariamisaac-1802/sleep-debt-medallion-data-warehouse)
-> **Flagship · Data Engineering & Analytics**
-
-* **Tech Stack:** `Python` `Pandas` `SQL Server` `T-SQL` `Medallion Architecture` `Star Schema` `Stored Procedures`
-* **Stats:** `8,500 Users` · `18 Source Columns` · `5 Dimensions` · `10 Analytics Queries`
-
-**Objective:**  
-Build a repeatable pipeline from a raw behavioral dataset to reporting views. Answers whether bedtime screen time costs sleep, evaluates blue light/caffeine impacts, and pinpoints sleep debt across demographics.
-
 ## 🎓 Certifications & Professional Training
 
 | Certifications  | Professional Programs & Internships  |
